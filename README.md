@@ -14,5 +14,7 @@ https://mindicador.cl/api/euro
 
 Tambien usamos desde su CDN a Bootstrap, no utilice descargar e instalar local porque a los efectos de ir preparando los alumnos enseñamos el package.json y node_modules en el modulo de React
 
-# Aplicacion construida usando como base HTML, CSS y JavaScript
+# Aplicacion construida usando como base HTML, CSS y JavaScript, enlace en GithubPages
+
+https://toteve.github.io/prueba_tecnica/
 
