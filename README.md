@@ -9,6 +9,7 @@ https://mindicador.cl/api
 # Segundo EndPoint utilizado devuelve los ultimos 10 dias de cambios de una moneda seleccionada, en mi caso utilice 
 # el dolar y el euro
 https://mindicador.cl/api/dolar
+
 https://mindicador.cl/api/euro
 
 # La informacion historica de cada moneda es graficada utilizando desde su CDN la libreria de graficos Chart.js, 
