@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.conversor {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: rgb(184, 195, 206);
+  padding: 1rem;
+  text-align-last: center;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#resultado {
+  font-size: x-large;
+  padding-top: 1rem;
+}
+
+canvas {
+  width: 80%;
+  border: solid 2px;
+}
+
+.fecha{
+   color: grey;
+}
