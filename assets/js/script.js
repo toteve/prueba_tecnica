@@ -101,27 +101,9 @@ async function convertir() {
 }
 
 
-
-
-
-
-
-
-
-
-
-// moneda.addEventListener("change", () => this.options[moneda.selectedIndex]);
-
-/* clp.addEventListener("change",  ()=> {
- 
-  const options2 = { style: "currency", currency: "CLP" };
-  const numberFormat2 = new Intl.NumberFormat("es-cl",options2);
-  cantidad.innerHTML = `Monto a convertir: ${numberFormat2.format(clp.value)}`
- 
-}); */
-
 //Generar los colores de lineas aleatoriamente en cada busqueda
-randomHex = (length) => ("0".repeat(length) + Math.floor(Math.random() * 16 ** length).toString(16)).slice(-length);
+const randomHex = (length) => ("0".repeat(length) + 
+                               Math.floor(Math.random() * 16 ** length).toString(16)).slice(-length);
 
 // Limpiar valores mostrados
 function limpiar()
