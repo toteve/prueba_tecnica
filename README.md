@@ -1,5 +1,4 @@
-# prueba_tecnica
-Prueba Tecnica para DEV.F
+# Prueba Tecnica para DEV.F
 
 # Api utilizada es publica y brinda informacion sobre paridad cambiaria de pesos chilenos con otras monedas
 
